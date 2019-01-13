@@ -1,0 +1,23 @@
+body {
+  background-image: url("../images/matrix1.jpg");
+  
+}
+
+.matrix1 {
+  border:green 2px solid;
+  background-color: black; 
+  padding:10px 40px 40px 40px;
+  color: green;
+  font-size: 20px;
+
+}
+
+div#test { 
+  border:green 2px solid;
+  background-color: black; 
+  padding:10px 40px 40px 40px;
+  color: green;
+  font-size: 20px;
+
+ }
+
